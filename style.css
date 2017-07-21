@@ -1,0 +1,25 @@
+body{
+    font-family: 'Bellefair', serif;
+    background-color: #495160;
+    color: white;
+}
+
+.white-link{
+    color: white;
+}
+
+.division{
+    font-size: 5rem;
+    text-align: center;
+    padding-bottom: 5rem;
+}
+
+.list-pad{
+    padding-bottom: 1rem;
+    font-size: 3rem;
+}
+
+.list-subpoint{
+    font-size: 2rem;
+    padding-bottom: 1rem;
+}
