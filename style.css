@@ -1,16 +1,29 @@
 body{
     font-family: 'Bellefair', serif;
-    background-color: #495160;
-    color: white;
+    color: #495160;
+    background-color: white;
+}
+
+.resume{
+    margin: 5rem 0 0 0;
+}
+
+.contact{
+    margin-top: 10rem;
+}
+
+.info{
+margin: 6.5rem 0 10rem 0;
 }
 
 .white-link{
-    color: white;
+    color: #495160;
 }
 
 .division{
     font-size: 5rem;
     text-align: center;
+    margin-top: 10rem;
     padding-bottom: 5rem;
 }
 
