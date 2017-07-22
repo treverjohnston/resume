@@ -10,7 +10,8 @@ body{
 }
 
 .name{
-    padding-left: 4rem;
+    
+    font-size: 5rem;
 }
 
 .contact{
