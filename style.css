@@ -5,8 +5,9 @@ body{
 }
 
 .banner{
-    padding: 15rem 0 0 5rem;
+    /* padding: 15rem 0 0 5rem; */
     background-color: #495160;
+    color: white;
 }
 
 .name{
@@ -18,27 +19,30 @@ body{
     margin-top: 10rem;
 }
 
-.info{
+/* .info{
 margin: 6.5rem 0 10rem 0;
-}
+} */
 
 .white-link{
-    color: #495160;
+    color: white;
 }
 
 .division{
-    font-size: 5rem;
     text-align: center;
-    margin-top: 10rem;
-    padding-bottom: 5rem;
+    /* padding-bottom: 5rem; */
+    font-size: 2.5rem;
+    
 }
 
 .list-pad{
     padding-bottom: 1rem;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .list-subpoint{
     font-size: 2rem;
     padding-bottom: 1rem;
+}
+.school{
+    font-size: 2.5rem;
 }
